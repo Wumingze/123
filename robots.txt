@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /config.inc.php
+Disallow: /admin/
+Disallow: /var/
+Disallow: /install/
+Disallow: /install.php
+Sitemap: http://wmz.f3322.net:1234/sitemap.xml
